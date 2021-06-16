@@ -1,1 +1,1 @@
-# calculadora-de-fatorial
+# calculadora
