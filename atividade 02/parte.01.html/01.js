@@ -35,10 +35,10 @@ function multiplicar()
     }
     
 }
-// function sortear()
-// {
-//     var min= imputMinimo.getElementById("minimo").value;
-//     var max= imputMaximo.getElementById("maximo").value;
-//     var sorteio = Math.floor(Math.random() * (max - min) + min);
-//     document.getElementById("resultado").innerHTML = sorteio;
-// }
+ function sortear()
+ {
+     var min= imputMinimo.getElementById("minimo").value;
+    var max= imputMaximo.getElementById("maximo").value;
+    var sorteio = Math.floor(Math.random() * (max - min) + min);
+    document.getElementById("resultado").innerHTML = sorteio;
+}
