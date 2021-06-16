@@ -1,0 +1,22 @@
+div {
+    background-color: rgb(221, 241, 248);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+div #buttom{
+    background-color: rgb(194, 187, 187);
+    width: 100px !important ;  
+    height: 25px;
+    border-style: outset;
+    border-color: rgb(211, 206, 206);
+    font: bold 15px arial , sans-serif;
+}
+p {
+    width: 300px !important;
+    height: 50px;
+    align-items: center;
+    background-color:snow;
+    flex-direction: column;
+}
